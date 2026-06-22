@@ -75,7 +75,7 @@ export const About = () => {
             <div className="relative group max-w-[340px] w-full aspect-[4/5] rounded-3xl overflow-hidden border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 p-2 shadow-xl hover:shadow-2xl transition-all duration-300">
               <div className="absolute inset-0 bg-gradient-to-tr from-primary-500/10 to-indigo-500/10 opacity-0 group-hover:opacity-100 transition-opacity duration-300 z-10" />
               <img 
-                src="/images/about.jpg" 
+                src="/images/about.png" 
                 alt="About Workspace" 
                 className="w-full h-full object-cover rounded-2xl grayscale-[20%] group-hover:grayscale-0 transition-all duration-500 scale-100 group-hover:scale-105"
                 onError={(e) => {
