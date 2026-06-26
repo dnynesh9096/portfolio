@@ -31,6 +31,9 @@ export default {
           bg: '#f8fafc',
           card: '#ffffff',
           border: 'rgba(0, 0, 0, 0.06)',
+        },
+        slate: {
+          850: '#151e2e',
         }
       },
       fontFamily: {
