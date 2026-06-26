@@ -14,5 +14,13 @@ export const educationData = [
     duration: '2019 - 2021',
     score: 'Percentage: 92%',
     description: 'Focused heavily on Science and Mathematics courses. Graduated with top honors in Computer Science subjects.'
+  },
+  {
+    id: 3,
+    degree: 'Secondary School Certificate (SSC)',
+    institution: 'Shri Shivaji Vidyalaya, Bawada',
+    duration: '2020',
+    score: 'Percentage: 61.00%',
+    description: 'Completed secondary education with high interest in science, mathematics, and computers.'
   }
 ];
